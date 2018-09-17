@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Tarot 1",
+      "image": "https://www.bing.com/images/search?q=tarot&FORM=OIIARP"
+    },
+    {
+      "id": 2,
+      "name": "Tarot 2",
+      "image": "philosopherswheel.com/tarotpictures.html"
+    },
+    {
+      "id": 3,
+      "name": "Tarot 3",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.geDODptSB3KTq9hmDknG1wHaM2&pid=Api"
+    },
+    {
+      "id": 4,
+      "name": "Tarot 4",
+      "image": "guity-novin.blogspot.de/2010/02/history-of-graphic-design-tarot...",
+      "occupation": "Boy Genius",
+      "location": "A Secret Laboratory"
+    },
+    {
+      "id": 5,
+      "name": "Tarot 5",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.S08VFvp-1nDBY_RsoSi4lQHaGV&pid=Api"
+
+    },
+    {
+      "id": 6,
+      "name": "Tarot 6",
+      "image": "https://www.pinterest.com/minimai/tarot-cards"
+    
+    },
+    {
+      "id": 7,
+      "name": "Tarot 7",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.r3JNSX4U28mt20-YEuruVAHaM4&pid=Api"
+
+    },
+    {
+      "id": 8,
+      "name": "Tarot 8",
+      "image": "www.ebay.com/itm/GRAND-ETTEILLA-B-P-GRIMAUD-FRANCE-TAROT-CARDS-DECK..."
+     
+    },
+    {
+      "id": 9,
+      "name": "Tarot 9",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.4aDrvCnSGiIZehBqZggtOgHaGP&pid=Api"
+    
+    },
+    {
+      "id": 10,
+      "name": "Tarot 10",
+      "image": "https://thetarotreader.wordpress.com/reviews/tarot-decks/smith..."
+     
+    },
+    {
+      "id": 11,
+      "name": "Tarot 11",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.YjMKcTVNkQKjDYbz2FiREAHaIX&pid=Api"
+   
+    },
+    {
+      "id": 12,
+      "name": "Tarot 12",
+      "image": "chevrefeuillescarpediem.blogspot.com/2013/04/carpe-diem-184-tarot..."
+
+    }
+  ]
