@@ -2,12 +2,12 @@
     {
       "id": 1,
       "name": "Tarot 1",
-      "image": "https://www.bing.com/images/search?q=tarot&FORM=OIIARP"
+      "image": "https://2.bp.blogspot.com/-uxkUpUJQrwU/UcF57ZrL2aI/AAAAAAAA4X4/u57amNemgOs/s1600/James-Eads-Tarot-Card-Set-1.jpg"
     },
     {
       "id": 2,
       "name": "Tarot 2",
-      "image": "philosopherswheel.com/tarotpictures.html"
+      "image": "https://somereallifeshit.files.wordpress.com/2014/08/star-moon-sun-72dpi.jpg"
     },
     {
       "id": 3,
@@ -17,9 +17,8 @@
     {
       "id": 4,
       "name": "Tarot 4",
-      "image": "guity-novin.blogspot.de/2010/02/history-of-graphic-design-tarot...",
-      "occupation": "Boy Genius",
-      "location": "A Secret Laboratory"
+      "image": "http://impressingwords.files.wordpress.com/2011/03/tarotcards_01.jpg"
+  
     },
     {
       "id": 5,
@@ -30,7 +29,7 @@
     {
       "id": 6,
       "name": "Tarot 6",
-      "image": "https://www.pinterest.com/minimai/tarot-cards"
+      "image": "http://blog.needsupply.com/wordpress/wp-content/uploads/2013/01/tarot1.jpg"
     
     },
     {
@@ -42,7 +41,7 @@
     {
       "id": 8,
       "name": "Tarot 8",
-      "image": "www.ebay.com/itm/GRAND-ETTEILLA-B-P-GRIMAUD-FRANCE-TAROT-CARDS-DECK..."
+      "image": "http://pixfeeds.com/images/8/326781/1200-511676686-old-tarot-card.jpg"
      
     },
     {
@@ -54,7 +53,7 @@
     {
       "id": 10,
       "name": "Tarot 10",
-      "image": "https://thetarotreader.wordpress.com/reviews/tarot-decks/smith..."
+      "image": "http://www.dreams.metroeve.com/wp-content/uploads/2016/10/dream-dictionary_tarot-cards.jpg"
      
     },
     {
@@ -66,7 +65,7 @@
     {
       "id": 12,
       "name": "Tarot 12",
-      "image": "chevrefeuillescarpediem.blogspot.com/2013/04/carpe-diem-184-tarot..."
+      "image": "https://thebigseance.files.wordpress.com/2015/01/3_card_tarot_spread_big_seance_400th_post1-e1421204242446.jpg"
 
     }
   ]
